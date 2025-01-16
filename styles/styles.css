@@ -4,7 +4,7 @@ body {
     margin: 50px 50px;
     text-align: center;
     list-style-position: inside;
-    color: #1D1616;
+    color: #16404D;
 }
 
 h1 {
@@ -18,3 +18,22 @@ img {
 p, li {
     font-size: 20px;
 } 
+
+li{
+    padding: 10px 0;
+}
+
+.recipe-btn {
+    border: 1px solid #f7eaba;
+    padding: 8px 24px;
+    display: inline-block;
+    margin: 10px 0;
+    text-decoration: none;
+    background-color: #FBF5DD;
+    color: #16404D;
+    border-radius: 5px;
+}
+
+.recipe-list {
+    list-style-type: none;
+}
